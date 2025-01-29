@@ -21,7 +21,7 @@ function Header({ handleThemeMode, theme }: Props) {
           <li className='nav-item col-md-auto me-3'>
             <a
               className='nav-link p-2'
-              href='/'
+              href='https://github.com/farhanahmed01/typing-speed'
               target='_blank'
               rel='noopener noreferrer'
               aria-label='github'
